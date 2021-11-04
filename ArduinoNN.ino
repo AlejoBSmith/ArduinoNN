@@ -4,7 +4,7 @@
  *  los valores de salida utilizando los pesos obtenidos durante el entrenamiento.
  *  El código se basa en aquel propuesto por Ralph Heymsfield en 6/2018 y del
  *  Makennbot disponible en: https://github.com/idlehandsproject/makennbot
- *  Adaptado por: Alejandro Von Chong 5/2021. asdf
+ *  Adaptado por: Alejandro Von Chong 5/2021. Asdf
  */
 
 #include <math.h>
